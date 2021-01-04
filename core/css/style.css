@@ -172,7 +172,7 @@ margin: 0 auto;
     }
     
     .second--background {
-      background: url('../pics/city2.jpg') no-repeat;
+      background: url('core/pics/city2.jpg') no-repeat;
       height: 1500px;
       width: 100%;
       margin: 0 auto;
@@ -184,7 +184,7 @@ margin: 0 auto;
     
     
     .third--background {
-      background: url('../pics/city3.jpg') no-repeat;
+      background: url('core/pics/city3.jpg') no-repeat;
       height: 1500px;
       width: 100%;
       margin: 0 auto;
