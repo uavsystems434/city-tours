@@ -1,0 +1,178 @@
+html {
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 500px;
+    }
+    
+    body {
+        margin: 0;
+    }
+    nav {
+        z-index: 2;
+    }
+    section {
+        position: relative;
+        width: 100%;
+    }
+    h1 {
+        margin: 0 auto;
+        position: relative;
+        text-align: center;
+        font-family: var(--ff-primary);
+        font-size: var(--fs-h1);
+    }
+
+   .mb-4 {
+        margin: 0 auto;
+        border-radius: 42em;
+        position: relative;
+        width: 11%;
+    }
+    
+    .first--background {
+        background: url('../pics/sanfrancisco.jpg') no-repeat;
+        height: 1500px;
+        width: 100%;
+        margin: 0 auto;
+        position: relative;
+        background-position-y: 12rem;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+          
+    }
+
+    .py-5 {
+        background: rgba(0, 162, 255, 0.76);
+        font-family: 'Bebas Neue', cursive;
+        padding: 3rem;
+        height: 18rem;
+        position: relative;
+        left: -.5rem;
+        width: 101.65%;
+        border-top-left-radius: 2rem;
+        border-top-right-radius: 2rem;
+     
+    }
+
+    .container {
+        margin: 0 auto;
+        position: relative;
+    }
+
+
+    .col-lg-8 {
+        background: rgba(255, 192, 203, 0.76);
+        height: 58rem;
+        padding: 50px;
+        border-bottom-left-radius: 2rem;
+    }
+
+
+    
+
+    .order-md-last {
+        background: rgba(0, 128, 0, 0.76);
+        border-bottom-right-radius: 2rem;
+    }
+
+.text-cart {
+    color: white;
+}
+ 
+    .first__text--body {
+        margin: 0 auto;
+        position: relative;
+        height: 1000px;
+        background-color: black;
+        background-size: cover;
+    }
+
+    .text-center h2 {
+     font-family: var(--ff-secondary);
+    }
+
+    .form-label {
+        color: rgb(0, 0, 0);
+    }
+
+    .form-check-label {
+        color: rgb(255, 255, 255);
+       
+    }
+
+    .lead {
+        font-family: var(--ff-secondary);
+    }
+
+    .w-100 {
+        margin: 0 auto;
+        position: relative;
+        top: 3.75rem;
+    }
+ footer {
+      background: black;
+      color: white;
+      margin: 0 auto;
+      position: relative;
+      background-size: cover;
+      
+      
+    }
+
+    footer {
+      background: black;
+      color: white;
+      margin: 0 auto;
+      position: relative;
+      background-size: cover;
+      
+      
+    }
+    
+    .social-list {
+      list-style: none;
+      display: flex;
+      justify-content: center;
+      margin: .2em 2em 0em;
+      position: relative;
+      top: 2rem;
+      padding: 0;
+      
+    } 
+    
+    .social-list__item {
+      margin: 0 .5em;
+      color: var(--clr-white);
+      font-size: 3.5rem;
+    }
+    
+    .social-list__link {
+      padding: .5em;
+    }
+    .return__top {
+      width: 3rem;
+      height: 3rem;
+     margin: 0 auto;
+     position: relative;
+     bottom: 2rem;
+     left: 92%;
+     background: rgb(255, 255, 255);
+     border-radius: 5rem;
+     font-size: 3.95rem;
+
+    }
+    .return__top:hover {
+  background-position: right bottom;
+}
+
+.form-label {
+    font-weight: bold;
+}
+.form-control {
+    background-color: white;
+    margin: 0 auto;
+    position: relative;
+    background-size: 150% 150%;
+width: 100%;
+}
