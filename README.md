@@ -1,0 +1,2 @@
+# Description
+Sample "City Tours" website design that utilizes Bootstrap for the Navbar. Also incorporates custom HTML, CSS, and JavaScript. Can be altered to serve as a personal project or portfolio.
