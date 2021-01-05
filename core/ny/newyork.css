@@ -24,7 +24,7 @@ height: 1000px;
     }
     
     .first--background {
-        background: url('../pics/newyork.jpg') no-repeat;
+        background: url('pics/newyork.jpg') no-repeat;
         height: 1500px;
         width: 100%;
         margin: 0 auto;
