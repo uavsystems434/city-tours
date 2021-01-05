@@ -41,7 +41,7 @@
      font-size: var(--fs-h1);
 }
  .first--background {
-     background: url('../pics/city.jpg') no-repeat;
+     background: url('../core/pics/city.jpg') no-repeat;
      height: 1500px;
      width: 100%;
      margin: 0 auto;
@@ -144,7 +144,7 @@
      color: white;
 }
  .second--background {
-     background: url('../pics/city2.jpg') no-repeat;
+     background: url('../core/pics/city2.jpg') no-repeat;
      height: 1500px;
      width: 100%;
      margin: 0 auto;
@@ -154,7 +154,7 @@
      background-attachment: fixed;
 }
  .third--background {
-     background: url('../pics/city3.jpg') no-repeat;
+     background: url('../core/pics/city3.jpg') no-repeat;
      height: 1500px;
      width: 100%;
      margin: 0 auto;
